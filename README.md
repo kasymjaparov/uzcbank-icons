@@ -55,72 +55,65 @@ function App() {
 
 | Тип иконки            | Описание                         |
 | --------------------- | -------------------------------- |
-| `chevronDown`         | Стрелка вниз                     |
-| `chevronRight`        | Стрелка вправо                   |
-| `plus`                | Плюс                             |
-| `eyeClose`            | Глаз закрыт                      |
-| `eyeOpen`             | Глаз открыт                      |
-| `info_filled`         | Информация (заливка)             |
-| `info`                | Информация                       |
-| `warning`             | Предупреждение                   |
+| `analytics`           | Аналитика                        |
+| `app`                 | Приложение                       |
+| `arrowDown`           | Стрелка вниз                     |
+| `arrowRight`          | Стрелка вправо                   |
+| `arrowUp`             | Стрелка вверх                    |
+| `asterisk`            | Звёздочка                        |
+| `bell`                | Уведомления                      |
+| `calendar`            | Календарь                        |
+| `calendarClock`       | Календарь с часами               |
+| `calendarMini`        | Маленький календарь              |
+| `checkBold`           | Галочка жирная                   |
+| `checkDouble`         | Двойная галочка                  |
+| `checkMini`           | Маленькая галочка                |
 | `checkbox_filled`     | Чекбокс выбран                   |
 | `checkbox_outline`    | Чекбокс пустой                   |
-| `arrowUp`             | Стрелка вверх                    |
-| `plus_filled`         | Плюс (заливка)                   |
-| `close_filled`        | Крестик (заливка)                |
+| `chevronDown`         | Стрелка вниз                     |
+| `chevronRight`        | Стрелка вправо                   |
+| `clockRefresh`        | Часы с обновлением               |
+| `clockSeven`          | Часы семь                        |
+| `clockZero`           | Часы ноль                        |
 | `close`               | Крестик                          |
-| `asterisk`            | Звёздочка                        |
-| `warning_outline`     | Предупреждение (контур)          |
+| `close_filled`        | Крестик (заливка)                |
+| `cloudUpload`         | Загрузка в облако                |
+| `copy`                | Копировать                       |
+| `dashboard`           | Дашборд                          |
+| `documentCertificate` | Документ сертификат              |
+| `dotsHorizontalBold`  | Три точки (жирные)               |
+| `download`            | Скачать                          |
+| `edit`                | Редактирование                   |
+| `eyeClose`            | Глаз закрыт                      |
+| `eyeOpen`             | Глаз открыт                      |
+| `facebook`            | Facebook                         |
 | `file_csv`            | Файл CSV                         |
 | `file_pdf`            | Файл PDF                         |
 | `file_xls`            | Файл XLS                         |
-| `settings_adjust`     | Настройки / регулировка          |
-| `arrowRight`          | Стрелка вправо                   |
-| `dotsHorizontal`      | Три точки (горизонтально)        |
-| `dotsHorizontalBold`  | Три точки (жирные)               |
-| `analytics`           | Аналитика                        |
-| `dashboard`           | Дашборд                          |
-| `search`              | Поиск                            |
-| `link`                | Ссылка                           |
-| `refresh`             | Обновить                         |
-| `checkBold`           | Галочка жирная                   |
-| `check`               | Галочка                          |
-| `trash`               | Корзина                          |
-| `checkDouble`         | Двойная галочка                  |
-| `closeLarge`          | Большой крестик                  |
-| `closeMedium`         | Средний крестик                  |
-| `closeSmall`          | Малый крестик                    |
-| `closeThin`           | Тонкий крестик                   |
-| `download`            | Скачать                          |
 | `fullscreen`          | Полный экран                     |
-| `arrowDown`           | Стрелка вниз                     |
-| `checkMini`           | Маленькая галочка                |
-| `clockBold`           | Часы (жирные)                    |
-| `clockSmall`          | Часы маленькие                   |
-| `clockRefresh`        | Часы с обновлением               |
-| `play`                | Воспроизведение                  |
-| `instagram`           | Instagram                        |
-| `facebook`            | Facebook                         |
-| `bell`                | Уведомления                      |
-| `user`                | Пользователь                     |
-| `walletCheck`         | Кошелёк с галочкой               |
-| `documentCertificate` | Документ сертификат              |
-| `calendarClock`       | Календарь с часами               |
-| `like`                | Лайк                             |
-| `phone`               | Телефон                          |
-| `calendarMini`        | Маленький календарь              |
-| `medal`               | Медаль                           |
-| `cloudUpload`         | Загрузка в облако                |
-| `calendar`            | Календарь                        |
-| `pencil`              | Карандаш                         |
-| `warningTriangle`     | Треугольный восклицательный знак |
+| `golf`                | Гольф                            |
 | `growth`              | Рост / график                    |
-| `edit`                | Редактирование                   |
-| `flag`                | Флаг                             |
-| `copy`                | Копировать                       |
-| `grid`                | Сетка                            |
+| `info`                | Информация                       |
+| `info_filled`         | Информация (заливка)             |
+| `instagram`           | Instagram                        |
+| `like`                | Лайк                             |
+| `link`                | Ссылка                           |
+| `medal`               | Медаль                           |
 | `menu`                | Меню                             |
+| `pencil`              | Карандаш                         |
+| `phone`               | Телефон                          |
+| `plus`                | Плюс                             |
+| `plus_filled`         | Плюс (заливка)                   |
+| `refresh`             | Обновить                         |
+| `search`              | Поиск                            |
+| `settings_adjust`     | Настройки / регулировка          |
 | `telegram`            | Telegram                         |
+| `trash`               | Корзина                          |
+| `user`                | Пользователь                     |
+| `wallet`              | Кошелёк                          |
+| `warningTriangle`     | Треугольный восклицательный знак |
+| `warning_outline`     | Предупреждение (контур)          |
+| `youtube`             | YouTube                          |
 
 
 ## Справочник API
