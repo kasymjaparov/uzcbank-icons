@@ -1,6 +1,6 @@
 {
   "name": "@kasymjaparov/uzcbank-icons",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Легкая коллекция SVG иконок для проекта UZCBANK",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
