@@ -40,5 +40,8 @@
     "bakai bank",
     "icons"
   ],
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
   "dependencies": {}
 }
