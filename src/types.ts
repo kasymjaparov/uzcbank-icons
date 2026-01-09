@@ -58,6 +58,7 @@ export const ICON_TYPES = {
     warningTriangle: "warning-triangle",
     warning_outline: "warning_outline",
     youtube: "youtube",
+    lock: "lock",
 } as const
 
 export type TIconType = keyof typeof ICON_TYPES

@@ -480,6 +480,11 @@ export const IconProvider = () => {
                     d="M14.1033 10.9275C14.1033 10.9275 11.5143 13.2635 10.1863 14.4625C9.78934 14.8205 9.82234 15.4505 10.2523 15.7675L15.6303 19.7405C16.1593 20.1315 16.9153 19.8445 17.0523 19.2005L19.6933 6.75348C19.8213 6.15148 19.2303 5.64848 18.6563 5.86948L3.14134 11.8535C2.68434 12.0295 2.70634 12.6825 3.17334 12.8285L7.25034 14.1005"
                     stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
             </symbol>
+            <symbol id={ICON_TYPES.lock} viewBox="0 0 24 24" fill="none">
+                <path
+                    d="M16 11H17.4C17.7314 11 18 11.2686 18 11.6V20.4C18 20.7314 17.7314 21 17.4 21H6.6C6.26863 21 6 20.7314 6 20.4V11.6C6 11.2686 6.26863 11 6.6 11H8M16 11V7C16 5.66667 15.2 3 12 3C8.8 3 8 5.66667 8 7V11M16 11H8"
+                    stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </symbol>
         </svg>
     )
 }
