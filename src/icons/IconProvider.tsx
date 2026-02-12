@@ -40,7 +40,7 @@ export const IconProvider = () => {
                 <path d="M10 14V9M10 6.2V6" stroke="none" strokeWidth="1.5" strokeLinecap="round"/>
             </symbol>
             <symbol id={ICON_TYPES.info} viewBox="0 0 20 20" fill="none">
-                <g clip-path="url(#clip0_6394_61337)">
+                <g clipPath="url(#clip0_6394_61337)">
                     <path d="M10 5.5V11M10 14.1V14" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"
                           strokeLinejoin="round"/>
                     <path
@@ -292,7 +292,7 @@ export const IconProvider = () => {
                     stroke="currentColor" strokeWidth="1.6"/>
             </symbol>
             <symbol id={ICON_TYPES.user} viewBox="0 0 18 18" fill="none">
-                <g clip-path="url(#clip0_6394_61331)">
+                <g clipPath="url(#clip0_6394_61331)">
                     <circle cx="8.66677" cy="4.33328" r="3.61111" stroke="currentColor" strokeWidth="1.5"/>
                     <path
                         d="M8.66699 10.1111C5.76357 10.1111 3.30477 12.0147 2.47061 14.6419C2.13635 15.6947 3.06242 16.6111 4.16699 16.6111H13.167C14.2716 16.6111 15.1976 15.6947 14.8634 14.6419C14.0292 12.0147 11.5704 10.1111 8.66699 10.1111Z"
@@ -414,7 +414,7 @@ export const IconProvider = () => {
                     stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
             </symbol>
             <symbol id={ICON_TYPES.warningTriangle} viewBox="0 0 24 24" fill="none">
-                <g clip-path="url(#clip0_6394_61439)">
+                <g clipPath="url(#clip0_6394_61439)">
                     <path
                         d="M10.3762 5.8125C11.0979 4.5625 12.9021 4.5625 13.6238 5.8125L19.9025 16.6875C20.6242 17.9375 19.7221 19.5 18.2787 19.5H5.72132C4.27794 19.5 3.37583 17.9375 4.09752 16.6875L10.3762 5.8125Z"
                         stroke="currentColor" strokeWidth="1.6"/>
@@ -441,7 +441,7 @@ export const IconProvider = () => {
                       fill="currentColor"/>
             </symbol>
             <symbol id={ICON_TYPES.golf} fill="none">
-                <g clip-path="url(#clip0_6394_61490)">
+                <g clipPath="url(#clip0_6394_61490)">
                     <path fillRule="evenodd" clipRule="evenodd"
                           d="M11.25 3.41054C11.25 2.44135 12.241 1.78791 13.1318 2.16969L21.5758 5.78855C22.6434 6.2461 22.6731 7.74886 21.6244 8.24826L12.75 12.4742V18.0006C12.75 18.4148 12.4142 18.7506 12 18.7506C11.5858 18.7506 11.25 18.4148 11.25 18.0006V3.41054ZM12.75 10.8128L20.68 7.03659L12.75 3.63802V10.8128Z"
                           fill="currentColor"/>
@@ -486,7 +486,7 @@ export const IconProvider = () => {
                     stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
             </symbol>
             <symbol id={ICON_TYPES.unlock} viewBox="0 0 24 24" fill="none">
-                <path d="M11.5 11H6.6C6.26863 11 6 11.2686 6 11.6V20.4C6 20.7314 6.26863 21 6.6 21H17.4C17.7314 21 18 20.7314 18 20.4V17.5" stroke="currentColor" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M11.5 11H6.6C6.26863 11 6 11.2686 6 11.6V20.4C6 20.7314 6.26863 21 6.6 21H17.4C17.7314 21 18 20.7314 18 20.4V17.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                 <path d="M15.9995 11V7C15.9995 5.66667 15.1995 3 11.9995 3C11.2527 3 10.6366 3.14525 10.1309 3.38491" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                 <path d="M16 11H17.4C17.7314 11 18 11.2686 18 11.6V12" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                 <path d="M8 7V7.5V11" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
