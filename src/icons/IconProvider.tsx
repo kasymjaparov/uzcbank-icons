@@ -491,17 +491,11 @@ export const IconProvider = () => {
                     stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
             </symbol>
             <symbol id={ICON_TYPES.unlock} viewBox="0 0 24 24" fill="none">
-                <path
-                    d="M11.5 11H6.6C6.26863 11 6 11.2686 6 11.6V20.4C6 20.7314 6.26863 21 6.6 21H17.4C17.7314 21 18 20.7314 18 20.4V17.5"
-                    stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                <path d="M15.9995 11V7C15.9995 5.66667 15.1995 3 11.9995 3C11.2527 3 10.6366 3.14525 10.1309 3.38491"
-                      stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                <path d="M16 11H17.4C17.7314 11 18 11.2686 18 11.6V12" stroke="currentColor" strokeWidth="1.5"
-                      strokeLinecap="round" strokeLinejoin="round"/>
-                <path d="M8 7V7.5V11" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"
-                      strokeLinejoin="round"/>
-                <path d="M3 2L21 20" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"
-                      strokeLinejoin="round"/>
+                <path d="M11.5 11H6.6C6.26863 11 6 11.2686 6 11.6V20.4C6 20.7314 6.26863 21 6.6 21H17.4C17.7314 21 18 20.7314 18 20.4V17.5" stroke="#C38631" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M15.9995 11V7C15.9995 5.66667 15.1995 3 11.9995 3C11.2527 3 10.6366 3.14525 10.1309 3.38491" stroke="#C38631" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M16 11H17.4C17.7314 11 18 11.2686 18 11.6V12" stroke="#C38631" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M8 7V7.5V11" stroke="#C38631" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M3 2L21 20" stroke="#C38631" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
             </symbol>
         </svg>
     )
