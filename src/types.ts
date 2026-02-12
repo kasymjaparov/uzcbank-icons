@@ -59,6 +59,7 @@ export const ICON_TYPES = {
     warning_outline: "warning_outline",
     youtube: "youtube",
     lock: "lock",
+    unlock: "unlock",
 } as const
 
 export type TIconType = keyof typeof ICON_TYPES
