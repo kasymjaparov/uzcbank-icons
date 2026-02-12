@@ -486,16 +486,11 @@ export const IconProvider = () => {
                     stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
             </symbol>
             <symbol id={ICON_TYPES.unlock} viewBox="0 0 24 24" fill="none">
-                <path
-                    d="M10.75 8.75H12.15C12.4814 8.75 12.75 9.01863 12.75 9.35V18.15C12.75 18.4814 12.4814 18.75 12.15 18.75H1.35C1.01863 18.75 0.75 18.4814 0.75 18.15V9.35C0.75 9.01863 1.01863 8.75 1.35 8.75H2.75M10.75 8.75V4.75C10.75 3.41667 9.95 0.75 6.75 0.75C3.55 0.75 2.75 3.41667 2.75 4.75V8.75M10.75 8.75H2.75"
-                    stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-            </symbol>
-            <symbol id={ICON_TYPES.unlock} viewBox="0 0 24 24" fill="none">
-                <path d="M11.5 11H6.6C6.26863 11 6 11.2686 6 11.6V20.4C6 20.7314 6.26863 21 6.6 21H17.4C17.7314 21 18 20.7314 18 20.4V17.5" stroke="#C38631" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                <path d="M15.9995 11V7C15.9995 5.66667 15.1995 3 11.9995 3C11.2527 3 10.6366 3.14525 10.1309 3.38491" stroke="#C38631" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                <path d="M16 11H17.4C17.7314 11 18 11.2686 18 11.6V12" stroke="#C38631" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                <path d="M8 7V7.5V11" stroke="#C38631" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                <path d="M3 2L21 20" stroke="#C38631" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M11.5 11H6.6C6.26863 11 6 11.2686 6 11.6V20.4C6 20.7314 6.26863 21 6.6 21H17.4C17.7314 21 18 20.7314 18 20.4V17.5" stroke="currentColor" stroke-width="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M15.9995 11V7C15.9995 5.66667 15.1995 3 11.9995 3C11.2527 3 10.6366 3.14525 10.1309 3.38491" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M16 11H17.4C17.7314 11 18 11.2686 18 11.6V12" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M8 7V7.5V11" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                <path d="M3 2L21 20" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
             </symbol>
         </svg>
     )
